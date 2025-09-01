@@ -41,6 +41,12 @@ Login screen
 Dashboard with reminders & appointments
 
 SMS alert
+
 ![Mama Health App Demo ] (https://github.com/Charley-sys/MAMA-HEALTH-FRONTEND/blob/main/Screenshot%20(415).png#:~:text=/-,Screenshot%20(415).png,-Latest%20commit)
+
+Payment dashboad
+
+![Mama Health App Payment Dashboard Demo ] (https://github.com/Charley-sys/MAMA-HEALTH-FRONTEND/blob/main/Screenshot%20(416).png#:~:text=/-,Screenshot%20(416).png,-Latest%20commit)
+
 
 
