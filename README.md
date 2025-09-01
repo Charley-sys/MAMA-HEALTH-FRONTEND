@@ -1,17 +1,43 @@
 # maternal_app
 
-A new Flutter project.
+📘 Mama Health – Frontend (Flutter)
+🌸 Overview
 
-## Getting Started
+This is the mobile app frontend of the Mama Health platform, built with Flutter.
+It allows mothers to register, log in securely, monitor pregnancy, receive SMS reminders, and book appointments.
 
-This project is a starting point for a Flutter application.
+🏗️ Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+Flutter (cross-platform: Android & iOS)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Firebase (push notifications, real-time sync)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# MAMA-HELATH
+REST API (connected to Laravel backend)
+
+🚀 Getting Started
+1. Clone the Repo
+git clone https://github.com/yourusername/mama-health-frontend.git
+cd mama-health-frontend
+
+2. Install Dependencies
+flutter pub get
+
+3. Run the App
+flutter run
+
+4. API Connection
+
+Update lib/config/api.dart with your Laravel backend API URL:
+
+const String BASE_URL = "http://127.0.0.1:8000/api";
+
+📸 Demo Screenshots
+
+Registration screen
+
+Login screen
+
+Dashboard with reminders & appointments
+
+SMS alert
+
